@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "go": "node server.js"
+  },
+  "name": "node.js",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
